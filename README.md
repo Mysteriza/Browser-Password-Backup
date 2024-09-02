@@ -1,5 +1,5 @@
 # Browser Password Backup
-This python program backup all passwords from browsers (and send it to your Telegram if necessary cloud backup)!
+This Python program backs up all saved passwords from web browsers and, if necessary, securely sends them to your Telegram for cloud backup!
 
 # How-to
 Just run the EXE program, and all your browser passwords will be saved to a TXT file!
