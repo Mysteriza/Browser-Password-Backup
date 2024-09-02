@@ -1,5 +1,5 @@
 # Browser Password Backup
-This python program backup all passwords and credit cards from browsers!
+This python program backup all passwords from browsers!
 
 # How-to
 Just run the EXE program, and all your browser passwords will be saved to a TXT file!
